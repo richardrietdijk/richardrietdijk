@@ -1,7 +1,6 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
-<!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
-Hi there, thanks for stopping by, this is **Richard** from **Amsterdam**.
+Thanks for stopping by! This is **Richard** from **Amsterdam**.
 
 <p>I'm a Web Developer with a rich multimedia history, working for companies like SEGA and APPLE.
 I have a passion for accessibility and UI, making software more inclusive through responsive design, progressive enhancement and semantics.</p>
@@ -19,10 +18,6 @@ I have a passion for accessibility and UI, making software more inclusive throug
 >**Helena Nicholson, \</SALT\>**
 <br>
 
-
-
- 
----
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
 ---
