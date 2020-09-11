@@ -7,7 +7,7 @@ I have a passion for accessibility and UI, making software more inclusive throug
 
 
 ><q><i>Richard has a wonderful working attitude. Even under the stress of deadlines and facing a huge pile of work, he strives to deliver quality results while keeping spirits high. We were lucky to have him on our team.</i></q><br>
->**Greg Townsend - Apple Inc**
+>**Greg Townsend, Apple Inc.**
 <br>
 
 ><q><i>Richard is a skilled programmer and has an easy-going attitude that makes him a valuable asset in any software development team. I especially appreciated how Richard helped and supported those around him in learning new concepts.</i></q> <br>
