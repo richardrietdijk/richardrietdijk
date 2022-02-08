@@ -1,6 +1,6 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 
-Thanks for stopping by! This is **Richard** from **Amsterdam**.
+Thanks for stopping by! This is **Richard** from **the Netherlands**.
 
 <p>I'm a Web Developer with a rich multimedia history, working for companies like SEGA and APPLE.
 I have a passion for accessibility and UI, making software more inclusive through responsive design, progressive enhancement and semantics.</p>
