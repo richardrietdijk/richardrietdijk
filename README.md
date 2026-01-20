@@ -1,17 +1,9 @@
-![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
+<p>Data Engineer from the Netherlands, recently moved to Spain, with experience in data science, multimedia production and Full-Stack Development, having worked for prestigious companies such as SEGA and APPLE.</p>
 
-Thanks for stopping by! This is **Richard** from **the Netherlands**.
+<p>Bachelor of Science, Computer Science<br>
+  Global MBA (Master of Business Administration)<br>
+  Master of Science, Artificial Intelligence (pursuing)<br></p>
 
-<p>I'm a Data Analyst with experience in multimedia production and Full-Stack Development, having worked for prestigious companies such as SEGA and currently APPLE. I'm currently both wrapping up my BS in Computer Science and taking an applied data science boot camp, before starting my Master's in Data Science (online, part-time) in August 2024.
-
-Python | SQL | Excel | Tableau | JavaScript | JAVA | R | React.js | Node.js | Express | TDD | Self-directed learning
-
-Passionate about everything data science, e-commerce, finance, and emerging technologies, including blockchain, Machine Learning, and AI.</p>
-
-
-><q><i>We are lucky to have him on our team.</i></q><br>
->**Greg Townsend, Apple Inc.**
-<br>
 
 ><q><i>A skilled programmer and a valuable asset in any software development team.</i></q> <br>
 >**Marcus Hammarberg, Spotify**
