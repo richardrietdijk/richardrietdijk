@@ -1,6 +1,6 @@
-# Richard Rietdijk - Data Engineer
+# Richard Rietdijk - AI / ML Engineer
 
-I'm a Data Engineer based in Spain, originally from the Netherlands, with a
+I'm an AI Engineer based in Spain, originally from the Netherlands, with a
 multidisciplinary background spanning data engineering, data science,
 cloud systems, and full-stack development. I build reliable data
 pipelines, scalable platforms, and analytics-ready datasets that turn
